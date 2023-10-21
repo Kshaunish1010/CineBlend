@@ -40,7 +40,7 @@ To get started with CineBlend, follow these steps:
    ```bash
    git clone https://github.com/Kshauish1010/CineBlend.git
 
-2. Navigate to the project directory: `cd Social_Sphere`
+2. Navigate to the project directory: `cd CineBlend`
    
 3. Install dependencies for the frontend and backend:
 * Frontend:  Change directory to the `client` directory: `cd client`
