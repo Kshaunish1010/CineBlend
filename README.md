@@ -2,6 +2,10 @@
 
 CineBlend is a feature-rich Netflix clone that has been developed using a stack of cutting-edge technologies. This README file provides an overview of the project and its key features.
 
+## Visit Website
+
+- **Visit CineBlend**: [CineBlend Website](https://eloquent-hotteok-ce3a6f.netlify.app/)
+- 
 ## GitHub Repository
 
 - **GitHub Repository URL**: [CineBlend GitHub Repository](https://github.com/Kshaunish1010/CineBlend)
